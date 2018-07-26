@@ -1,5 +1,7 @@
 # data_science_and_data_driven_decisions
 
+![certificate](https://raw.githubusercontent.com/guoqi228/data_science_and_data_driven_decisions/master/certificate.png)
+
 https://bigdataanalytics.mit.edu/ 
 
 Module 1: Making sense of unstructured data
